@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mattee ur rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattee ur rehman" height="30" width="40" /></a>
-<a href="https://fb.com/mattee ur rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mattee ur rehman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mattee-ur-rehman-204b0031b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattee ur rehman" height="30" width="40" /></a>
+<a href="https://web.facebook.com/MrMattee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mattee ur rehman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
